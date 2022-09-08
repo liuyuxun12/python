@@ -1,4 +1,6 @@
 import cv2
+import numpy as np
+import torch
 
 image = cv2.imread("1.jpg")
 
