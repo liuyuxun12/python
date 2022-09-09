@@ -1,2 +1,0 @@
-print("opencv")
-print("ok")
